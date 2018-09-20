@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android_GridView</string>
+
+    <string-array name="animals">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Monkey</item>
+        <item>Tiger</item>
+        <item>Horse</item>
+        <item>Elephant</item>
+        <item>Lion</item>
+        <item>Bear</item>
+        <item>Rabbit</item>
+    </string-array>
+</resources>
